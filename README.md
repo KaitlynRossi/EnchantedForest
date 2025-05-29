@@ -25,5 +25,5 @@ A data structures project that uses a red-black tree to manage and organize ench
    Search:
    Format → lower-power upper-power
    Example → 0 100
-#Teck Stack
+## Teck Stack
   Java
